@@ -1,6 +1,2 @@
-# Audiobook-Python
-Import pyttsx3
-Import pdf
-
-pip install pyttsx3
-pip install PyPDF2
+# audiobook
+read any audio book using 12 lines of python
